@@ -4,7 +4,8 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 
 *Tempus, Angulus, Tactus — una resonantia.*  
-*Время, Угол, Касание — единый резонанс.*
+*Время, Угол, Касание — единый резонанс.*  
+*时间，角度，触感 — 共振一体。*
 
 **TAT-7** — нейросетевая архитектура с резонансной памятью для непрерывного обучения (Continual Learning).  
 Работает на CPU, в 20 раз меньше параметров, чем типичные CNN.
