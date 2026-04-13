@@ -8,11 +8,16 @@
 *时间，角度，触感 — 共振一体。*
 
 **TAT-7** — нейросетевая архитектура с резонансной памятью для непрерывного обучения (Continual Learning).  
-Работает на CPU, в 20 раз меньше параметров, чем типичные CNN.
+**TAT-7** is a neural network architecture with resonant memory for continual learning.  
+**TAT-7** 是一种具有共振记忆的神经网络架构，用于持续学习。
+
+Работает на CPU, в 20 раз меньше параметров, чем типичные CNN.  
+Runs on CPU, 20x fewer parameters than typical CNNs.  
+在CPU上运行，参数量比典型CNN少20倍。
 
 ---
 
-### 🏆 Результаты
+### 🏆 Результаты | Results | 结果
 
 | Бенчмарк | Результат | Рейтинг | Дата |
 |:---|:---|:---|:---|
@@ -23,7 +28,7 @@
 
 ---
 
-### ⚡ Быстрый старт
+### ⚡ Быстрый старт | Quick Start | 快速开始
 
 git clone https://github.com/maratsultanov2/TAT-7.git
 cd TAT-7
@@ -31,7 +36,7 @@ python train.py --config ideal_config.json
 
 ---
 
-### 📖 Пример использования
+### 📖 Пример использования | Usage Example | 使用示例
 
 from tat import TAT7
 
@@ -40,7 +45,7 @@ output = model.forward(input_tensor)
 
 ---
 
-### 📅 История проекта
+### 📅 История проекта | Project History | 项目历史
 
 **2025**
 - **Янв–Апр:** исследование CNN, ResNet, проблем градиентов
@@ -56,7 +61,7 @@ output = model.forward(input_tensor)
 
 ---
 
-### 🔗 Экосистема TAT
+### 🔗 Экосистема TAT | TAT Ecosystem | TAT 生态系统
 
 | Проект | Описание |
 |:---|:---|
@@ -66,13 +71,15 @@ output = model.forward(input_tensor)
 
 ---
 
-### 👤 Автор
+### 👤 Автор | Author | 作者
 
-**Марат Султанов**  
+**Марат Султанов | Marat Sultanov**  
 [GitHub](https://github.com/maratsultanov2) | [Telegram](https://t.me/Marat_Sultanow)
 
 ---
 
-### 📄 Лицензия
+### 📄 Лицензия | License | 许可证
 
-MIT License. Ключевые параметры архитектуры являются интеллектуальной собственностью автора.
+MIT License. Ключевые параметры архитектуры являются интеллектуальной собственностью автора.  
+Key architectural parameters are the intellectual property of the author.  
+关键架构参数为作者的知识产权。
