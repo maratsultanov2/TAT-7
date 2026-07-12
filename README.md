@@ -48,3 +48,14 @@ TAT создаётся и поддерживается одним разрабо
 
 ### 📄 Лицензия
 MIT License. Ключевые параметры архитектуры являются интеллектуальной собственностью автора.
+
+## ⚖️ Intellectual Property & Licensing
+
+**© Marat Sultanov, 2026. All rights reserved.**
+
+### Dual Licensing
+- **Code**: [GNU AGPL v3.0](LICENSE-CODE) — strong copyleft, requires source disclosure for network use.
+- **Data, Models, Documentation**: [CC BY-NC-ND 4.0](LICENSE-DATA) — no commercial use, no derivatives.
+
+### Commercial Use
+Commercial use requires a separate license agreement. See [TAT-COMM](https://github.com/maratsultanov2/TAT-ROOT/tree/master/TAT-COMM) for pricing and terms.
